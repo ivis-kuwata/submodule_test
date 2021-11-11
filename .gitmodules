@@ -1,0 +1,3 @@
+[submodule "django-react-trial"]
+	path = django-react-trial
+	url = https://github.com/fugithora812/django-react-trial.git
